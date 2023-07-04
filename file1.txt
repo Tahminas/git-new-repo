@@ -1,1 +1,1 @@
-Nix training start.
+Nix training start.ok
